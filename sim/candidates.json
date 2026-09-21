@@ -1,0 +1,80 @@
+{
+  "catalogue": "Synthetic score records declared for Thesis #28. Not a transcription of Thesis #16. Proxy scores are stored so a refused contrast can name the numeral it did not write. The admission predicate does not read them.",
+  "source_repository": null,
+  "library_sha256": "2ad3e3ffdb9c12d56d4276203ef37be409c0fd7b4af73f6206f4d4cd3c63beb5",
+  "engine": null,
+  "unit": "arbitrary_surrogate",
+  "may_enter_theta": false,
+  "anecdote": {
+    "id": "unpublished_note",
+    "text": "An unpublished note said a kinetic constant had moved. The note is not a score record.",
+    "recomputed_here": false,
+    "may_enter_theta": false
+  },
+  "rows": [
+    {
+      "id": "C01",
+      "label": "slow_product",
+      "symbol": "u_p",
+      "pains": 0,
+      "claim": 3,
+      "proxy_score": "-1.20"
+    },
+    {
+      "id": "C02",
+      "label": "slow_pool",
+      "symbol": "u_q",
+      "pains": 0,
+      "claim": 3,
+      "proxy_score": "-0.80"
+    },
+    {
+      "id": "C03",
+      "label": "gain_shift",
+      "symbol": "u_h",
+      "pains": 0,
+      "claim": 3,
+      "proxy_score": "-1.50"
+    },
+    {
+      "id": "C04",
+      "label": "readout",
+      "symbol": "u_w",
+      "pains": 0,
+      "claim": 3,
+      "proxy_score": "-0.50"
+    },
+    {
+      "id": "C05",
+      "label": "second_product",
+      "symbol": "u_p",
+      "pains": 0,
+      "claim": 3,
+      "proxy_score": "-0.60"
+    },
+    {
+      "id": "C06",
+      "label": "low_claim",
+      "symbol": "u_p",
+      "pains": 0,
+      "claim": 2,
+      "proxy_score": "-0.40"
+    },
+    {
+      "id": "C07",
+      "label": "pains_set",
+      "symbol": "u_q",
+      "pains": 1,
+      "claim": 3,
+      "proxy_score": "-2.00"
+    },
+    {
+      "id": "C08",
+      "label": "claim_four",
+      "symbol": "u_h",
+      "pains": 0,
+      "claim": 4,
+      "proxy_score": "-0.10"
+    }
+  ]
+}

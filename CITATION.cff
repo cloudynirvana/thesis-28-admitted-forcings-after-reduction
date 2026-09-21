@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Admitted known forcings that remain distinguishable after a stiff–sloppy reduction"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  After a documented stiff-sloppy or MBAM-style reduction that preserves
+  multi-channel ranks, which Thesis #19-admitted known forcings stay
+  distinguishable from soft-prior leakage into Theta, and which admissions
+  become artefacts of the unreduced coordinates? On this synthetic toy the
+  product forcing and the pool forcing stay distinguishable on the reduced
+  chart. The gain forcing is admitted and is a rescaling of kappa, so it is
+  confounded with leakage on both charts. The readout forcing is
+  distinguishable only on the channel the reduction deletes. Refusals and
+  admissions leave the SHA-256 of Theta unchanged. Not a medical device.
+  No document DOI.
+keywords:
+  - forcing admission
+  - evidence gate
+  - stiff-sloppy reduction
+  - manifold boundary approximation
+  - multi-channel identifiability
+  - soft prior
+  - parameter leakage
+  - synthetic toy
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction"
+repository-code: "https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction"
+preferred-citation:
+  type: thesis
+  title: "Admitted known forcings that remain distinguishable after a stiff–sloppy reduction"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-28-admitted-forcings-after-reduction"
+  notes: "Thesis #28. Depends on Thesis #19 and Thesis #24. Computational research. Synthetic toy, not a clinical result. No document DOI. Not a dose or efficacy claim."
